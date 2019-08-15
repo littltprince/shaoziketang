@@ -12,29 +12,31 @@ class Method:
     '''封装post请求'''
     def post(self,row):
         try:
-            r=requests.post(url=self.excel.get_URL(row=row),
-                            data=self.excel.get_requestdata(row=row),
-                            headers=getHeadersValue(),
-                            timeout=8)
+            r = requests.post(url=self.excel.get_URL(row=row),
+                              data=self.opearJson.getRequestData(row=row),
+                              headers=getHeadersValue(),
+                              timeout=8)
             return r
         except Exception as e:
             raise RuntimeError('接口请求发生异常的错误')
 
+
     '''封装get请求'''
     def get(self,url,params=None):
-        r=requests.get(url=url,
-                       params=params,
-                       headers=getHeadersValue(),
-                       timeout=6)
+        r = requests.get(url=url,
+                         params=params,
+                         headers=getHeadersValue(),
+                         timeout=6)
         return r
+
 class IsAssert:
     def __init__(self):
-        self.excel=operationExcel()
+        self.excel = operationExcel()
 
-    def isContent(self,row,str2):
+    def isContent(self, row, str2):
         flag=None
         if self.excel.get_Expect(row=row) in str2:
-            flag=True
+            flag = True
         else:
-            flag=False
+            flag = False
         return flag

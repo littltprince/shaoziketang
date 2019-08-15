@@ -8,7 +8,7 @@ from utils.excelData import *
 class operationExcel:
     '''读取Excel中的sheet内容'''
     def getExcel(self):
-         excel=xlrd.open_workbook(data_dir('data','testcase.xls'))
+         excel=xlrd.open_workbook(data_dir('data', 'testcase.xls'))
          sheet=excel.sheet_by_index(0)
          return sheet
     '''获取Excel的行数'''

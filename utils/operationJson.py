@@ -17,5 +17,5 @@ class operationJson:
     def getRequestData(self,row):
         return json.dumps(self.getReadJson()[self.excel.get_requestdata(row=row)])
 
-# opear=operationJson()
-# print(opear.getRequestData(1),type)
+# opear = operationJson()
+# print(opear.getRequestData(2), type)
