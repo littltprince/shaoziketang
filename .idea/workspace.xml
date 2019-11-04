@@ -4,8 +4,8 @@
     <list default="true" id="69bc9b78-ff96-4cf5-a996-3fbd103fbfef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn_Easyjiekou/RunAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_Easyjiekou/RunAll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn_Easyjiekou/mysqldata.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_Easyjiekou/mysqldata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn_Easyjiekou/测试报告.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn_Easyjiekou/测试报告.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonzerotoone/2019-8-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonzerotoone/2019-8-14.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonzerotoone/2019-8-14.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/测试报告.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="297">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/test_Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="30" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
               </folding>
@@ -41,10 +50,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/test_Login.py">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/test_buymember.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="270">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
               </folding>
@@ -55,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/RunAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="243">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -65,19 +74,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonzerotoone/2019-8-19.py">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonzerotoone/name_cases.py">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="378">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#16#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/send_email2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/send.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <element signature="e#10#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,15 +133,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonzerotoone/dailylife.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
+            <state relative-caret-position="702">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonzerotoone/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -142,17 +185,26 @@
         <option value="$PROJECT_DIR$/data/mysqldata.py" />
         <option value="$PROJECT_DIR$/easy_play/mysqldata.py" />
         <option value="$PROJECT_DIR$/learn_Easyjiekou/abnormalLogin.py" />
-        <option value="$PROJECT_DIR$/learn_Easyjiekou/RunAll.py" />
         <option value="$PROJECT_DIR$/pythonzerotoone/2019-8-19.py" />
         <option value="$PROJECT_DIR$/pythonzerotoone/2019-8-14.py" />
+        <option value="$PROJECT_DIR$/pythonzerotoone/pachong.py" />
+        <option value="$PROJECT_DIR$/pythonzerotoone/spider.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/mysqldata.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/test_buymember.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/send_email.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/send_email2.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/RunAll.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/send.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/config.py" />
+        <option value="$PROJECT_DIR$/learn_Easyjiekou/run.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-4" />
-    <option name="y" value="271" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-25" />
+    <option name="y" value="17" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="760" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -162,6 +214,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhugezhaofang-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhugezhaofang-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhugezhaofang-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhugezhaofang-master" type="462c0819:PsiDirectoryNode" />
+              <item name="learn_Easyjiekou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhugezhaofang-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhugezhaofang-master" type="462c0819:PsiDirectoryNode" />
+              <item name="learn_Easyjiekou" type="462c0819:PsiDirectoryNode" />
+              <item name="BeautifulReport-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -178,22 +252,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="zhugezhaofang" type="cbb8eebc:String" user="zhugezhaofang" />
               <item name="utils" type="cbb8eebc:String" user="utils" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="zhugezhaofang-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhugezhaofang-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhugezhaofang-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhugezhaofang-master" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonzerotoone" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,120 +287,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2019-8-14">
-    <configuration name="2019-8-14" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zhugezhaofang" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonzerotoone" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonzerotoone/2019-8-14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2019-8-19" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zhugezhaofang" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonzerotoone" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonzerotoone/2019-8-19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RunAll" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zhugezhaofang" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_Easyjiekou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_Easyjiekou/RunAll.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for learn_Easyjiekou.test_Login.TestLogin.test_fail" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="zhugezhaofang" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;learn_Easyjiekou.test_Login.TestLogin.test_fail&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test_Login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="zhugezhaofang" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_Easyjiekou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/learn_Easyjiekou/test_Login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.RunAll" />
-      <item itemvalue="Python.2019-8-19" />
-      <item itemvalue="Python tests.Unittests in test_Login.py" />
-      <item itemvalue="Python tests.Unittests for learn_Easyjiekou.test_Login.TestLogin.test_fail" />
-      <item itemvalue="Python.2019-8-14" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.2019-8-14" />
-        <item itemvalue="Python.2019-8-19" />
-        <item itemvalue="Python.RunAll" />
-        <item itemvalue="Python tests.Unittests in test_Login.py" />
-        <item itemvalue="Python tests.Unittests for learn_Easyjiekou.test_Login.TestLogin.test_fail" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -366,7 +310,13 @@
       <workItem from="1566182932526" duration="1733000" />
       <workItem from="1566223293206" duration="3590000" />
       <workItem from="1566460350430" duration="1858000" />
-      <workItem from="1566527397061" duration="1405000" />
+      <workItem from="1566527397061" duration="5509000" />
+      <workItem from="1566983896187" duration="670000" />
+      <workItem from="1567492863760" duration="4524000" />
+      <workItem from="1567576861674" duration="5389000" />
+      <workItem from="1571398834878" duration="575000" />
+      <workItem from="1571743776614" duration="60000" />
+      <workItem from="1572833289980" duration="269000" />
     </task>
     <servers />
   </component>
@@ -403,7 +353,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49545000" />
+    <option name="totallyTimeSpent" value="65136000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -416,14 +366,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3184569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35022694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41639343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40819672" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4557377" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,10 +422,11 @@
     <SUITE FILE_PATH="coverage/zhugezhaofang_master$2019_8_19.coverage" NAME="2019-8-19 Coverage Results" MODIFIED="1566228452857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonzerotoone" />
     <SUITE FILE_PATH="coverage/zhugezhaofang_master$Unittests_for_test_login_login_test_login.coverage" NAME="Unittests for test_login.login.test_login Coverage Results" MODIFIED="1565862385615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
     <SUITE FILE_PATH="coverage/zhugezhaofang_master$Unittests_for_abnormalLogin_TestLogin_test_fail.coverage" NAME="Unittests for abnormalLogin.TestLogin.test_fail Coverage Results" MODIFIED="1566030442719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/zhugezhaofang_master$RunAll.coverage" NAME="RunAll Coverage Results" MODIFIED="1566227540898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_Easyjiekou" />
+    <SUITE FILE_PATH="coverage/zhugezhaofang_master$RunAll.coverage" NAME="RunAll Coverage Results" MODIFIED="1567514236723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_Easyjiekou" />
     <SUITE FILE_PATH="coverage/zhugezhaofang_master$Unittests_in_tset_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1565862347289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
     <SUITE FILE_PATH="coverage/zhugezhaofang_master$2019_8_14.coverage" NAME="2019-8-14 Coverage Results" MODIFIED="1566528182138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonzerotoone" />
-    <SUITE FILE_PATH="coverage/zhugezhaofang_master$mysqldata.coverage" NAME="mysqldata Coverage Results" MODIFIED="1566023895015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/zhugezhaofang_master$mysqldata.coverage" NAME="mysqldata Coverage Results" MODIFIED="1567493232410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_Easyjiekou" />
+    <SUITE FILE_PATH="coverage/zhugezhaofang_master$spider.coverage" NAME="spider Coverage Results" MODIFIED="1566546714962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonzerotoone" />
     <SUITE FILE_PATH="coverage/zhugezhaofang_master$Unittests_in_abnormalLogin_py.coverage" NAME="Unittests in abnormalLogin.py Coverage Results" MODIFIED="1566031125842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_Easyjiekou" />
   </component>
   <component name="editorHistoryManager">
@@ -563,34 +513,12 @@
     <entry file="file://$PROJECT_DIR$/testCase/abnormalLogin.py" />
     <entry file="file://$PROJECT_DIR$/pythonzerotoone/2019-8-17.py" />
     <entry file="file://$PROJECT_DIR$/data/mysqldata.py" />
-    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/测试报告.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/operationJson.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="e#16#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#16#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -609,20 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/mysqldata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/requestData.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -630,37 +544,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/test_Login.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#16#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/RunAll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonzerotoone/name_cases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonzerotoone/dailylife.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="6507">
+          <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -676,10 +563,135 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonzerotoone/2019-8-14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="162">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonzerotoone/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/mysqldata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonzerotoone/name_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/测试报告.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/test_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/test_buymember.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/RunAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#16#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/send_email2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#10#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonzerotoone/dailylife.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_Easyjiekou/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>

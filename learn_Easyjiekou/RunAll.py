@@ -8,3 +8,4 @@ if __name__ == '__main__':
 
 
     BeautifulReport(suite).report(filename='测试报告',description='登录测试',log_path='.')
+
